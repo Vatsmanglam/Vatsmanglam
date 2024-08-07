@@ -21,10 +21,10 @@
 <h4 align="left">GitHub Stats:</h4>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://git.io/awesome-stats-card">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/kanhaiyakumar1838?cardType=github&theme=midnight-purple&preferLogin=false&Background=000000" alt="My Awesome Stats" />
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/vatsmanglam?cardType=github&theme=midnight-purple&preferLogin=false&Background=000000" alt="My Awesome Stats" />
   </a>
 <a href="https://github.com/Vatsmanglam">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanhaiyakumar1838&layout=donut&theme=midnight-purple&text_bold=true&show_icons=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsmanglam&layout=donut&theme=midnight-purple&text_bold=true&show_icons=true" alt="Top Languages" />
 </a>
 <!--  <img src="https://github-profile-trophy.vercel.app/?username=Shahanshahsidd208" />  use this when i will be having good repos-->
 </div>
