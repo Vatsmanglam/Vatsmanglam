@@ -7,6 +7,8 @@
 
 - 📫 How to reach me manglamvats175@gmail.com**
 
+- ⚡ Fun fact - The first recorded software bug was a moth found in a computer in 1947, which led to the term "debugging.
+
 <h3 align="left">Find me :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/manglamvats/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
@@ -39,3 +41,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsmanglam&repo=BRTS-Simulator-Using-CPP&theme=midnight-purple&description_lines_count=3&text_bold=true&show_icons=true" />
 </a>
 </div>
+
+### ✍️ Random Dev Quote
+> **"Code is like humor. When you have to explain it, it’s bad."** <span style="float: right;">— Cory House</span>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Vatsmanglam&label=Profile%20Views&color=11&icon=2&pretty=false)](https://visitcount.itsvg.in)
+
