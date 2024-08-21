@@ -1,4 +1,4 @@
-<h1 align="left">Namaste 👋, I'm Manglam Vats</h1>
+<h1 align="left">Namaste 👋, I'm Manglam </h1>
 <h3 align="left">A keen learner from India</h3>
 
 <img align="center" alt="Coding" width="300" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
