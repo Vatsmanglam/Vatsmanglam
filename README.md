@@ -7,7 +7,7 @@
 
 - 📫 How to reach me manglamvats175@gmail.com**
 
-- ⚡ Fun fact - The first recorded software bug was a moth found in a computer in 1947, which led to the term "debugging.
+- ⚡ Fun fact - The first recorded software bug was a moth found in a computer in 1947, which led to the term "debugging".
 
 <h3 align="left">Find me :</h3>
 <p align="left">
