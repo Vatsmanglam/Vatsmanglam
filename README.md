@@ -5,7 +5,7 @@
 
 - 🌱 I’m a Final Year student of KLE Tech
 
-- 📫 How to reach me manglamvats175@gmail.com**
+- 📫 How to reach me manglamvats175@gmail.com
 
 - ⚡ Fun fact - The first recorded software bug was a moth found in a computer in 1947, which led to the term "debugging".
 
