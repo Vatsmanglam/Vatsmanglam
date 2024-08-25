@@ -30,6 +30,8 @@
 </a>
 <!--  <img src="https://github-profile-trophy.vercel.app/?username=Shahanshahsidd208" />  use this when i will be having good repos-->
 </div>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Vatsmanglam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/Vatsmanglam" /></a></p><br><br>
 <h3 align="left">Top Repositories:</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
