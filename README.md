@@ -41,8 +41,7 @@
   </a>
 </div>
 
-tyle="color: #F2AD00;">My longest streak lasted **23 days** from **Jul 23** to **Aug 14**.</p>
-</div>
+
 
 
 
