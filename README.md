@@ -14,6 +14,8 @@
 <a href="https://www.linkedin.com/in/manglamvats/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/manglamvats175/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/ecc2e5b9-59c0-49f4-a52b-d042b30e4092" height="30" width="40" /></a>
 <a href="https://x.com/vats_manglam" target="blank"><img align="center" src="https://github.com/user-attachments/assets/10269f60-3010-4920-8b2c-7455cfd29e8d" alt="shivan999" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/manglamvats175" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manglamvats175" height="35" width="35"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 # 💻 Tech Stack:
