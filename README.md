@@ -4,7 +4,7 @@
 
 <h3 align="left">A keen learner from India</h3>
 
-<img align="center" alt="Coding" width="300" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
+<img align="center" alt="Coding" width="300" src="https://github.com/user-attachments/assets/ee073d8a-bd7a-4faa-af3e-2d5e6d92df09">
 
 - 🌱 I’m a Final Year student of KLE Tech
 
