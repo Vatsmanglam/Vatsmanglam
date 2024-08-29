@@ -1,4 +1,7 @@
 <h1 align="left">Namaste 👋, I'm Manglam </h1>
+
+[![](https://visitcount.itsvg.in/api?id=Vatsmanglam&label=Profile%20Views&color=11&icon=2&pretty=false)](https://visitcount.itsvg.in)
+
 <h3 align="left">A keen learner from India</h3>
 
 <img align="center" alt="Coding" width="300" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
@@ -40,7 +43,7 @@
 <h3 align="left">GitHub Streak:</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=vatsmanglam&theme=dark&hide_border=true&background=0D1117&ring=F2AD00&fire=F2AD00&currStreakLabel=F2AD00" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=vatsmanglam&theme=dark&background=0D1117&ring=F2AD00&fire=F2AD00&currStreakLabel=F2AD00" alt="GitHub Streak Stats" />
   </a>
 </div>
 
@@ -67,5 +70,5 @@
 > **"Code is like humor. When you have to explain it, it’s bad."** <span style="float: right;">— Cory House</span>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vatsmanglam&label=Profile%20Views&color=11&icon=2&pretty=false)](https://visitcount.itsvg.in)
+
 
