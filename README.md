@@ -40,6 +40,12 @@
   </a>
 </div>
 
+### ✍️ Random Dev Quote
+> **"Code is like humor. When you have to explain it, it’s bad."** <span style="float: right;">— Cory House</span>
+
+---
+
+
 <h3 align="left">GitHub Streak:</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://git.io/streak-stats">
@@ -66,9 +72,5 @@
 </a>
 </div>
 
-### ✍️ Random Dev Quote
-> **"Code is like humor. When you have to explain it, it’s bad."** <span style="float: right;">— Cory House</span>
-
----
 
 
