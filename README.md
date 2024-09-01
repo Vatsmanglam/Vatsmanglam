@@ -2,9 +2,13 @@
 
 [![](https://visitcount.itsvg.in/api?id=Vatsmanglam&label=Profile%20Views&color=11&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
+
 <h3 align="left">A keen learner from India</h3>
 
 <img align="center" alt="Coding" width="300" src="https://github.com/user-attachments/assets/ee073d8a-bd7a-4faa-af3e-2d5e6d92df09">
+
+## 🚀 About Me
+ - 💡 I'm a passionate developer with a love for solving complex problems and building impactful projects.
 
 - 🌱 I’m a Final Year student of KLE Tech
 
