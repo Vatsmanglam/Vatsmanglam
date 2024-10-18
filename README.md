@@ -78,6 +78,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vatsmanglam&repo=BRTS-Simulator-Using-CPP&theme=midnight-purple&description_lines_count=3&text_bold=true&show_icons=true" />
 </a>
 </div>
+<br>
+
+[![An image of @vatsmanglam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vatsmanglam)](https://holopin.io/@vatsmanglam)
+
 
 
 
