@@ -55,11 +55,12 @@
 
 <h3 align="left">GitHub Streak:</h3>
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=vatsmanglam&theme=dark&background=0D1117&ring=F2AD00&fire=F2AD00&currStreakLabel=F2AD00" alt="GitHub Streak Stats" />
+  <a href="https://github-readme-stats.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api?username=vatsmanglam&show_icons=true&theme=dark" 
+         alt="GitHub Streak Stats" />
   </a>
 </div>
- 
+
 
 
 
